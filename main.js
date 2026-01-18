@@ -96,7 +96,7 @@ function createMenu() {
             dialog.showMessageBox(mainWindow, {
               title: 'About FolderMap',
               message: 'FolderMap',
-              detail: 'Version 1.0.0\nA tool to visualize folder structures.',
+              detail: 'Version 1.0.0\nA tool to visualize folder structures by deeemx.',
               buttons: ['OK']
             });
           }

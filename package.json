@@ -1,0 +1,30 @@
+{
+  "name": "foldermap",
+  "version": "1.0.0",
+  "description": "A tool to visualize folder structures",
+  "author": "deeemx",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win": "electron-builder --win"
+  },
+  "build": {
+    "appId": "com.foldertree.app",
+    "productName": "FolderMap",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.6.4"
+  }
+}

@@ -25,3 +25,4 @@ git clone `https://github.com/deeemx/FolderMap`
 
 Or download the .exe file from the releases
  section.
+MADE THIS FOR SCHOOL

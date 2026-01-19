@@ -12,7 +12,7 @@ function createWindow() {
     minHeight: 600,
     icon: path.join(__dirname, 'assets', 'icon.ico'),
 
-    title: 'FolderMap',
+    title: 'FolderMaster',
 
     
     frame: true,
@@ -94,8 +94,8 @@ function createMenu() {
           label: 'About',
           click: () => {
             dialog.showMessageBox(mainWindow, {
-              title: 'About FolderMap',
-              message: 'FolderMap',
+              title: 'About FolderMaster',
+              message: 'FolderMaster',
               detail: 'Version 1.0.0\nA tool to visualize folder structures by deeemx.',
               buttons: ['OK']
             });

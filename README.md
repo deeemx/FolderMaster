@@ -16,7 +16,7 @@ Export the folder structure as text
 
 ![Alt text](assets/example.png)
 
-Installation
+Installation:
 
 Clone the repository and build it in terminal:
 

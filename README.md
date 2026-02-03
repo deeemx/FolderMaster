@@ -25,4 +25,4 @@ git clone `https://github.com/deeemx/FolderMaster`
 
 Or download the .exe file from the releases
  section.
-MADE THIS FOR SCHOOL
+MADE THIS FOR SCHOOL was originally named foldermap
